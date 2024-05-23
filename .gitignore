@@ -9,3 +9,6 @@
 
 # coverage
 /coverage
+
+# pnpm 
+pnpm-lock.yaml
